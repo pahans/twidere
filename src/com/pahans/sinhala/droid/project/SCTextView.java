@@ -18,10 +18,9 @@ public class SCTextView extends TextView {
 	
 	@Override
 	public void setText(CharSequence text, BufferType type) {
-		super.setText(SinhalaDroid.convert(text), type);
+		super.setText(SinhalaDroid.convert(text)+"sinhala", type);
 	}
 
-	
     public SCTextView(Context context, AttributeSet attrs) {
         super(context, attrs);
         init();
