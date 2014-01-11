@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
 	<color name="nyan_background">#003366</color>
 	<color name="bg_color_light">#e5e5e5</color>
 	<color name="bg_color_dark">#101010</color>
@@ -12,5 +11,8 @@
 	<color name="highlighted_text_holo_light">#66b0b0b0</color>
 	<color name="text_link_holo_dark">#909090</color>
 	<color name="text_link_holo_light">#707070</color>
-
+	<color name="candidate_normal">#FF000000</color>
+    <color name="candidate_recommended">#FFE35900</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_background">#bbffffff</color>
 </resources>
