@@ -59,5 +59,9 @@
 
 	<!-- Dimensions for alert dialog -->
 	<dimen name="icon_size_alert_dialog">32dp</dimen>
+	
+	<!-- Dimensions for candidate view -->
+	<dimen name="candidate_font_height">16dp</dimen>
+    <dimen name="candidate_vertical_padding">6dp</dimen>
 
 </resources>
